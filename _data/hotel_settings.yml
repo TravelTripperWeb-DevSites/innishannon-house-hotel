@@ -1,0 +1,16 @@
+---
+_hotel_id: DUN413
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 51.59012
+longitude: -8.8676
+name: Dunmore House Hotel
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
+address:
+  street1: Muckross
+  street2: ''
+  state: ''
+  city: Clonakilty
+  country: 
+  zip_code: ''
